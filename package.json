@@ -1,0 +1,7 @@
+{
+  "name": "mysite",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
